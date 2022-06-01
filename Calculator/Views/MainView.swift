@@ -13,7 +13,7 @@ struct MainView: View {
     
     var body: some View {
         ZStack(alignment: .bottom) {
-            Color.black.ignoresSafeArea()
+            //Color.black.ignoresSafeArea()
             VStack(spacing: 15) {
                 HStack {
                     Spacer()
